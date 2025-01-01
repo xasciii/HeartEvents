@@ -1,0 +1,4 @@
+name: HeartEvents
+version: '1.0'
+main: pro.heartnet.heartevents.HeartEvents
+api-version: '1.21'

@@ -1,0 +1,7 @@
+spawn:
+  world: world
+  location-x: 0.5
+  location-y: 100.0
+  location-z: 0.5
+  location-yaw: 0.0
+  location-pitch: 0.0
